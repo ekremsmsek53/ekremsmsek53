@@ -1,4 +1,4 @@
-# Hi, I'm Ekrem Şimşek 👋
+# Hi, I'm Ekrem Simsek 👋
 ### Senior Game Systems & Backend Engineer (Unity / .NET)
 
 Specializing in custom server-authoritative architectures, TCP/UDP socket programming, and core gameplay systems.
