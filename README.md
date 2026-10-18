@@ -7,7 +7,7 @@ Specializing in custom server-authoritative architectures, TCP/UDP socket progra
 
 ### 🚀 Key Projects
 
-#### ⚔️ MMORPG Core & Network Architecture (*Kadim Neferler*)
+#### ⚔️ MMORPG Core & Network Architecture
 - **Role:** Lead Systems & Gameplay Engineer
 - **Tech Stack:** Unity, C#, .NET / .NET Framework, Custom TCP/UDP Sockets, PostgreSQL, MSSQL, MySQL, SQLite
 - **Highlights:** 
