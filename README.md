@@ -1,5 +1,5 @@
 # Hi, I'm Ekrem Simsek 👋
-### Senior Game Systems & Backend Engineer (Unity / .NET)
+### Backend Developer (Unity / .NET)
 
 Specializing in custom server-authoritative architectures, TCP/UDP socket programming, web-to-game backend synchronization, core gameplay systems, and robust infrastructure solutions.
 
