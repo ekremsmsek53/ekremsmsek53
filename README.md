@@ -44,4 +44,4 @@ Specializing in custom server-authoritative architectures, TCP/UDP socket progra
 ---
 
 📫 **Contact & Links:**
-- **Email:** ekremsmsek53@gmail.com
+- **Email:** ekremsmsek@gmail.com
